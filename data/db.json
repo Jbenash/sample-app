@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Learning from Mistakes in Coding",
+      "datetime": "2025-04-24T09:00:00",
+      "body": "Every coder makes mistakes—it's part of the learning process. In this post, I'll reflect on some of the mistakes I've made along the way and how they ultimately made me a better programmer."
+    },
+    {
+      "id": "2",
+      "title": "The Joys of Coding",
+      "datetime": "2025-04-19T10:00:00",
+      "body": "Coding has always been a source of joy for me. It's amazing how a few lines of code can create something meaningful. Today, I'll be sharing some tips for beginner coders!"
+    },
+    {
+      "id": "3",
+      "title": "Tackling Challenges in Software Development",
+      "datetime": "2025-04-20T11:30:00",
+      "body": "Software development can be a rollercoaster. There are days when things work perfectly and others when nothing seems to go right. In this post, I'll share how I stay motivated during tough times."
+    },
+    {
+      "id": "4",
+      "title": "Creative Coding Projects",
+      "datetime": "2025-04-21T08:45:00",
+      "body": "One of the most fun aspects of coding is working on creative projects. I'll discuss a few of my favorite personal projects and how they pushed me to think outside the box."
+    },
+    {
+      "id": "5",
+      "title": "Exploring  Programming Languages",
+      "datetime": "April 19 ,2025 10:34:57 PM",
+      "body": "Learning new programming languages is like discovering a whole new world. In this post, I'll talk about my experiences with languages like Python, JavaScript,  C++."
+    },
+    {
+      "id": "6",
+      "title": "The Importance of Debugging",
+      "datetime": "April 19 ,2025 10:33:24 PM",
+      "body": "Debugging is an essential skill for any coder. I'll share some debugging techniques and tools that have helped me save time and frustration while writing code."
+    }
+  ]
+}
